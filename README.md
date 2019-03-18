@@ -1,2 +1,2 @@
 # vpntoolbox
-We're building the backend of vpntoolbox.com
+We're building the backend of https://vpntoolbox.com
